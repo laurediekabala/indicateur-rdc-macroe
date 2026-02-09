@@ -131,7 +131,7 @@ dmypy.json
 .DS_Store
 
 # Streamlit specific
-.streamlit/
+# .streamlit/  <- KEEP config.toml for cloud deployment
 streamlit_app.py
 
 # Data files (keep local, don't commit)
