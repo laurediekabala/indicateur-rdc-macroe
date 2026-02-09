@@ -1,0 +1,13 @@
+pandas 
+numpy
+streamlit
+plotly
+matplotlib
+seaborn
+scikit-learn
+prophet
+statsmodels
+pdfplumber
+tabula
+camelot
+pmdarima
