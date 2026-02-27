@@ -38,7 +38,7 @@ st.markdown("""
     
     .main-header {
         font-size: 2.8rem;
-        font-weight: 700;
+        font-weight: 100;
         background: linear-gradient(135deg, #1f77b4 0%, #0d5ca6 100%);
         color: white;
         text-align: center;
