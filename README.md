@@ -166,7 +166,7 @@ Le projet adopte une architecture modulaire afin de séparer les responsabilité
 ```text
 indicateur-rdc-macroe/
 │
-├── app_macro_rdc_professionnel.py
+├── dashboard.py
 │
 ├── config/
 │   └── indicators.py
