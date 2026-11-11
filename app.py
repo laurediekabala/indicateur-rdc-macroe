@@ -1021,9 +1021,8 @@ elif page == "À propos":
     # --------------------------------------------------------
     # AUTEUR
     # --------------------------------------------------------
-
     st.subheader("Développement du projet")
-
+    
     st.markdown("""
     **Laurent Kabala**
 
